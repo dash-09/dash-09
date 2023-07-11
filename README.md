@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nickshukla53@gmail.com**
 
-- 📄 Know about my experiences [Link 🔗](https://drive.google.com/file/d/1Ms1Vt9ysMu04w2YPaHGviDwA7Tfv1FGk/view?usp=drivesdk)
+- 📄 Know about my experiences [Link 🔗](https://drive.googom/file/d/1Ms1Vt9ysMu04w2YPaHGviDwA7Tfv1FGk/view?usp=drivesdk)
 
 
 <br>
