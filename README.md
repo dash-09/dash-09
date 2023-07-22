@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas0916&label=Profile%20views&color=0e75b6&style=flat" alt="manas0916" /> </p>
 
-- 🌱 I’m currently learning **Next.js** **MangoDb**
+- 🌱 I’m currently learning **Next.js** **MangoDb****Nodejs**
 
 - 💬 Ask me about **MERN Stack & DataStructure And Algorithm**
 
