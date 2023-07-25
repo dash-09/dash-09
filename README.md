@@ -25,7 +25,7 @@
   <a href="https://twitter.com/dash_7xz" target="blank"><img src="https://skillicons.dev/icons?i=twitter&perline=10"></a>
   <a href="https://www.linkedin.com/in/adarsh-shuklaa/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=10"></a><br>
   <div align="center">    
-  <a href="https://www.leetcode.com/add_shy" target="blank" color= "white" background-color="black" width="10px" height= "4px"> Leetcode </a>  
+  <a href="https://www.leetcode.com/add_shy" target="blank"> <img src="https://skillicons.dev/icons?i=leetcode&perline=10">Leetcode </a>  
     </div>
 </p>
 
