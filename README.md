@@ -2,13 +2,13 @@
 
 
 
-<h4 align="center">A passionate Full Stack Web Developer from India</h4>
+<h4 align="center">A passionate Full Stack Web Developer and DSA Learner </h4>
 
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas0916&label=Profile%20views&color=0e75b6&style=flat" alt="manas0916" /> </p>
 
-- 🌱 I’m currently learning **Next.js** **MangoDb** and **Nodejs**
+- 🌱 I’m currently learning **Express.js** **MangoDb** and **Nodejs**
 
 - 💬 Ask me about **MERN Stack & DataStructure And Algorithm**
 
