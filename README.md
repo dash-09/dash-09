@@ -1,4 +1,6 @@
-<h2 align="center">Hi there 👋 I am Adarsh. Welcome to my GitHub profile  
+<h2 align="center">Hi there 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin Sans+Code&pause=1000&color=E34A38&multiline=true&width=560&lines=I+am+Adarsh%2C+Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+I am Adarsh. Welcome to my GitHub profile 
+</h2>
 
 
 
@@ -6,7 +8,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manas0916&label=Profile%20views&color=0e75b6&style=flat" alt="dash-09(Adarsh-shukla)" /> Hi,Thanks for visiting my works</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manas0916&label=Profile%20views&color=0e75b6&style=flat" alt="dash-09(Adarsh-shukla)" /> </p>
 
 - 🌱 I’m currently learning **Express.js** **MangoDb** and **Nodejs**
 
