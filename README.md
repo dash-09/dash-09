@@ -6,7 +6,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manas0916&label=Profile%20views&color=0e75b6&style=flat" alt="manas0916" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manas0916&label=Profile%20views&color=0e75b6&style=flat" alt="dash-09(Adarsh-shukla)" /> Hi,Thanks for visiting my works</p>
 
 - 🌱 I’m currently learning **Express.js** **MangoDb** and **Nodejs**
 
