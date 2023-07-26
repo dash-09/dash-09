@@ -4,7 +4,7 @@
 <h4 align="center">Passionate Full Stack Web Developer and DSA Learner </h4>
 
 <br>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/dash-09/dash-09/assets/74849401/5a356d71-b7db-4083-9201-6aa24bc19a25)
+<img align="right" alt="coding" width="400" src="https://github.com/dash-09/dash-09/assets/74849401/5a356d71-b7db-4083-9201-6aa24bc19a25
 ">
 
 
