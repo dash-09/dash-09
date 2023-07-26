@@ -4,7 +4,8 @@
 <h4 align="center">Passionate Full Stack Web Developer and DSA Learner </h4>
 
 <br>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15637256-coding%2Fattachments%2F7428659%3Fmode%3Dmedia&psig=AOvVaw1_hAkgGr7ySJxf5NyxS4hh&ust=1690453547556000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCHzq2UrIADFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/dash-09/dash-09/assets/74849401/5a356d71-b7db-4083-9201-6aa24bc19a25)
+">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas0916&label=Profile%20views&color=0e75b6&style=flat" alt="dash-09(Adarsh-shukla)" /> </p>
