@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 </h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ysabeau+SC&weight=700&pause=2000&color=E34A38&center=true&vCenter=true&width=1150&lines=I+am+Adarsh%2C+Welcome+to+my+GitHub+profile." alt="Adarsh SVG" /></a>
+<a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Ysabeau+SC&weight=700&pause=2000&color=E34A38&center=true&vCenter=true&width=1150&lines=I+am+Adarsh%2C+Welcome+to+my+GitHub+profile." alt="Adarsh SVG" /></a>
 
 <h4 align="center">Passionate Full Stack Web Developer and DSA Learner </h4>
 
