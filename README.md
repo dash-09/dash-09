@@ -1,3 +1,4 @@
+<body background="black" >
 <h1 align="center">Hi there 👋 </h1>
 <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Ysabeau+SC&weight=700&pause=2000&color=E34A38&center=true&vCenter=true&width=1150&lines=I+am+Adarsh%2C+Welcome+to+my+GitHub+profile." alt="Adarsh SVG" /></a>
 
@@ -40,3 +41,4 @@
   <img src="https://skillicons.dev/icons?i=java,react,js,css,tailwind,discord,c,express,,github,html,nextjs,mongodb,nodejs,linux,vercel,vscode&perline=9">
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dash-09&show_icons=true&locale=en&layout=compact" alt="dash-09" /></p>
+</body>
