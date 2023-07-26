@@ -28,6 +28,8 @@
   <a href="https://www.leetcode.com/add_shy" target="blank">Leetcode </a>  
     </div>
 </p>
+### ✍️ Dev's Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 <h3 align="center">Languages and Tools:</h3>
 
