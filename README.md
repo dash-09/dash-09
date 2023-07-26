@@ -1,6 +1,5 @@
 <h2 align="center">Hi there 👋 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E34A38&multiline=true&width=560&lines=I+am+Adarsh%2C+Welcome+to+my+Github+Profile)]
- (https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin&duration=2000&pause=20&color=E34A38&center=true&multiline=true&width=435&height=65&lines=I+am+Adarsh%2C;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
 </h2>
 
 
