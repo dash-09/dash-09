@@ -22,7 +22,8 @@
 
 <h3 align="center">🔗 Connect with me:</h3>
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Adarsh-Shukla) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/dash_7xz) 
+   <a href="https://twitter.com/dash_7xz" target="blank"><img src="https://skillicons.dev/icons?i=twitter&perline=10"></a>
+  <a href="https://www.linkedin.com/in/adarsh-shuklaa/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin&perline=10"></a><br>
   <div align="center">    
   <a href="https://www.leetcode.com/add_shy" target="blank">Leetcode </a>  
     </div>
