@@ -8,7 +8,7 @@
 
 
 
-<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><img src="https://giphy.com/embed/CXnj3jCwvETngjy11B" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/scaler-official-funny-computer-programming-CXnj3jCwvETngjy11B">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/CXnj3jCwvETngjy11B" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-funny-computer-programming-CXnj3jCwvETngjy11B">via GIPHY</a></p>
 
  
 
