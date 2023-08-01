@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **nickshukla53@gmail.com**
 
-- 📄 Know about my <a href="https://drive.google.com/file/d/1kD6tW2GzdHDN0Lj4lWTYNu-pEeQoFh7K/view?usp=drive_link" target="blank">Experiences(Resume)</a> 🔗
+- 📄 Know about my <a href="https://shorturl.at/hmnB3" target="blank">Experiences(Resume)</a> 🔗
  
 - 👨‍🎓 See my <a href="https://adarsh-shukla.vercel.app/" target ="blank">Portfolio</a> 🔗
 
