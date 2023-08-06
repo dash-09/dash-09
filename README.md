@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **nickshukla53@gmail.com**
 
-- 📄 Know about my Experience:[myResume](https://github.com/dash-09/dash-09/files/12268579/myResume.pdf) 🔗
+- 📄 Know about my Experience : [My-Resume](https://github.com/dash-09/dash-09/files/12268579/myResume.pdf) 🔗
  
 - 👨‍🎓 See my <a href="https://adarsh-shukla.vercel.app/" target ="blank">Portfolio</a> 🔗
 
