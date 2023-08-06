@@ -71,13 +71,14 @@
 <p align="center"cursor="none"> 
   <img src="https://skillicons.dev/icons?i=java,react,js,css,tailwind,discord,c,express,,github,html,nextjs,mongodb,nodejs,linux,vercel,vscode&perline=9">
 </p>
+
+<br>
+<br>
 <p align="center"cursor="none"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dash-09&show_icons=true&locale=en&layout=compact" alt="dash-09" /></p>
  
 
 
 
-<br>
-<br>
  
 <p align="center"cursor="none"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dash-09&" alt="dash-09" /></p>
 
