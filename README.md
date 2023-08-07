@@ -1,6 +1,6 @@
 <body background="black" >
 <h1 align="center">Hi there 👋 </h1>
-<a href=""cursor="none"><img src="https://readme-typing-svg.herokuapp.com?font=Josefin Sans+SC&size=35&weight=700&pause=900&color=E34A38&center=true&vCenter=true&width=1150&lines=I+am+Adarsh+Shukla%2C+Welcome+to+my+GitHub+profile." alt="Adarsh SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=700&pause=1000&width=435&lines=Hi+There+%2C+I+am+Adarsh+Shukla.+Welcome+to+my+Github+Profile+++)](https://git.io/typing-svg)
 
 <h4 align="center">Passionate Full Stack-Web Developer and DSA Learner </h4>
 
