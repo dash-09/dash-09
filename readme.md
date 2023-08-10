@@ -24,7 +24,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dash-09&label=Profile%20views&color=0e75b6&style=flat" alt="dash-09(Adarsh-shukla)" /> </p>
 
-- 🌱 I’m currently learning **Express.js** **MangoDb** and **Nodejs**
+- 🌱 I’m currently learning **Next.js** **GraphCMS** and **GraphSQL**
 
 - 💬 Ask me about **MERN Stack & DataStructure And Algorithm**
 
