@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **React.js** **GraphCMS** and **GraphSQL**
 
-- 💬 Ask me about **MERN Stack & DataStructure And Algorithm**
+- 💬 Ask me about **GraphCMS and GraphQl  & DSA**
 
 - 📫 How to reach me **nickshukla53@gmail.com**
 
