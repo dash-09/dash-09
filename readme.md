@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **nickshukla53@gmail.com**
 
-- 📄 Know about my Experience : [My-Resume 🔗 ](https://github.com/dash-09/dash-09/files/12511501/myResume.pdf)
+- 📄 Know about my Experience : [My-Resume 🔗 ](https://github.com/dash-09/MyPortFolioSite/blob/master/src/assets/myResume.pdf)
 
 - My LinkTree - [See My All Profiles 🔗 ](https://linktr.ee/add_shy) 
  
