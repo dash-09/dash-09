@@ -30,13 +30,14 @@
 
 - 📫 How to reach me **nickshukla53@gmail.com**
 
-- 📄 Know about my Experience : [My-Resume 🔗 ](https://github.com/dash-09/MyPortFolioSite/blob/master/src/assets/myResume.pdf)
+- 📄 Know about my Experience : [My-Resume 🔗 ](https://github.com/dash-09/dash-09/files/13080620/myresume.pdf)
 
 - My LinkTree - [See My All Profiles 🔗 ](https://linktr.ee/add_shy) 
  
 - 👨‍🎓 See my <a href="https://adarsh-shukla.vercel.app/" target ="blank">Portfolio</a> 🔗
 
 <br>
+
 
 
 
