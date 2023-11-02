@@ -24,9 +24,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dash-09&label=Profile%20views&color=0e75b6&style=flat" alt="dash-09(Adarsh-shukla)" /> </p>
 
-- 🌱 I’m currently learning **React.js** **GraphCMS** and **GraphSQL**
+- 🌱 I’m currently learning **React.js** **GraphCMS** and **GraphQL**
 
-- 💬 Ask me about **GraphCMS and GraphQl  & DSA**
+- 💬 Ask me about **GraphCMS and GraphQL  & DSA**
 
 - 📫 How to reach me **nickshukla53@gmail.com**
 
