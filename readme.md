@@ -24,15 +24,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dash-09&label=Profile%20views&color=0e75b6&style=flat" alt="dash-09(Adarsh-shukla)" /> </p>
 
-- 🌱 I’m currently learning **React.js** **GraphCMS** and **GraphQL**
+- 🌱 I’m currently learning **React.js, MangoDb, ExpressJs and NodeJs**
 
-- 💬 Ask me about **GraphCMS and GraphQL  & DSA**
+- 💬 Ask me about **Mern Stack GraphCMS and GraphQL & DSA**
 
 - 📫 How to reach me **nickshukla53@gmail.com**
 
-- 📄 Know about my Experience : [My-Resume 🔗 ](https://github.com/dash-09/dash-09/files/13080620/myresume.pdf)
+- 📄 Know about my Experience : [My-Resume 🔗 ](https://github.com/dash-09/dash-09/files/14061323/adarsh.pdf)
 
-- My LinkTree - [See My All Profiles 🔗 ](https://linktr.ee/add_shy) 
+- <img src="https://github.com/dash-09/dash-09/assets/74849401/4c8ecf2f-f8f9-4a25-9260-7a6916816d15" width="16" height="19" /> My LinkTree - [See My All Profiles 🔗 ](https://linktr.ee/add_shy) 
  
 - 👨‍🎓 See my <a href="https://adarsh-shukla.vercel.app/" target ="blank">Portfolio</a> 🔗
 
@@ -40,6 +40,7 @@
 
 
 
+ 
 
 
 
