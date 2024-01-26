@@ -34,7 +34,7 @@
 
 - <img src="https://github.com/dash-09/dash-09/assets/74849401/4c8ecf2f-f8f9-4a25-9260-7a6916816d15" width="16" height="19" /> My LinkTree - [See My All Profiles 🔗 ](https://linktr.ee/add_shy) 
  
-- 👨‍🎓 See my <a href="https://adarsh-shukla.vercel.app/" target ="blank">Portfolio</a> 🔗
+- 👨‍🎓 See my <a href="https://ad9z.me/" target ="blank">Portfolio</a> 🔗
 
 <br>
 
